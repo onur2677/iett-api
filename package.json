@@ -1,0 +1,31 @@
+{
+    "name": "iett-api",
+    "version": "1.0.0",
+    "description": "IETT Web Service API",
+    "main": "index.js",
+    "scripts": {
+        "test": "node test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/onur2677/iett-api.git"
+    },
+    "keywords": [
+        "iett",
+        "ibb",
+        "soap",
+        "rest",
+        "api",
+        "iett-rest",
+        "iett-soap"
+    ],
+    "author": "Onur Atam",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/onur2677/iett-api/issues"
+    },
+    "homepage": "https://github.com/onur2677/iett-api#readme",
+    "dependencies": {
+        "strong-soap": "^3.3.1"
+    }
+}
